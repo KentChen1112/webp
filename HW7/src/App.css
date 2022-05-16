@@ -1,0 +1,10 @@
+.App {
+  margin:0px auto;
+  width: 250px;
+  padding: 10px;;
+  text-align: center;
+  border-style:solid;
+  border: width 2px;
+  border-color:cornflowerblue;
+}
+
